@@ -12,8 +12,9 @@ Este repositório contém exemplos de projetos utilizando a biblioteca Tkinter e
 ## Conteúdo
 1. [Exemplo 1: Aplicação Simples](01)
 2. [Exemplo 2: Criação de Wigets](02)
-2. [Exemplo 2: Event Handler](03)
-3. [Exemplo 3: Recebendo Dados](04)
+3. [Exemplo 2: Event Handler](03)
+4. [Exemplo 3: Recebendo Dados](04)
+5. [Exemplo 3: Tkinter Designer](05)
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
